@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Обучение С#/Example007_max/bin/Debug/net6.0/Example007_max
+/Users/mac/Desktop/Обучение С#/Example007_max/bin/Debug/net6.0/Example007_max.deps.json
+/Users/mac/Desktop/Обучение С#/Example007_max/bin/Debug/net6.0/Example007_max.runtimeconfig.json
+/Users/mac/Desktop/Обучение С#/Example007_max/bin/Debug/net6.0/Example007_max.dll
+/Users/mac/Desktop/Обучение С#/Example007_max/bin/Debug/net6.0/Example007_max.pdb
+/Users/mac/Desktop/Обучение С#/Example007_max/obj/Debug/net6.0/Example007_max.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Обучение С#/Example007_max/obj/Debug/net6.0/Example007_max.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Обучение С#/Example007_max/obj/Debug/net6.0/Example007_max.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Обучение С#/Example007_max/obj/Debug/net6.0/Example007_max.AssemblyInfo.cs
+/Users/mac/Desktop/Обучение С#/Example007_max/obj/Debug/net6.0/Example007_max.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Обучение С#/Example007_max/obj/Debug/net6.0/Example007_max.dll
+/Users/mac/Desktop/Обучение С#/Example007_max/obj/Debug/net6.0/refint/Example007_max.dll
+/Users/mac/Desktop/Обучение С#/Example007_max/obj/Debug/net6.0/Example007_max.pdb
+/Users/mac/Desktop/Обучение С#/Example007_max/obj/Debug/net6.0/Example007_max.genruntimeconfig.cache
+/Users/mac/Desktop/Обучение С#/Example007_max/obj/Debug/net6.0/ref/Example007_max.dll
